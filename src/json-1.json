@@ -1,0 +1,13 @@
+{
+  "name": "deni",
+  "nick": "ncek",
+  "single": false,
+  "age": 17,
+  "ponakan": [{
+    "name": "haura"
+  },{
+    "name": "zaira"
+  },{
+    "name": "arsina"
+  }]
+}
